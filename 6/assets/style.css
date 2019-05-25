@@ -1,0 +1,25 @@
+<style>
+	#td1{
+		width: 60%;
+	}
+	.co1{
+		font-size: 16px;
+		background-color: cyan;
+		padding: 10px;
+	}
+	.co2{
+		padding: 10px;
+		padding-bottom:30px;
+	}
+	#td2{
+		width: 40%;
+		margin: 0px auto;
+      	padding: 10px;
+      	padding-top: 25px; 
+	}
+	table{
+		width: 100%;
+		padding :10px;
+		border: 1px solid #ccc;
+	}
+</style>

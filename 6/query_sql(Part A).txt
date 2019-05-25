@@ -1,0 +1,1 @@
+SELECT users.name"name_programmer", skills.name"jumlah_skill" FROM users LEFT JOIN skills ON users.id = skills.user_id
